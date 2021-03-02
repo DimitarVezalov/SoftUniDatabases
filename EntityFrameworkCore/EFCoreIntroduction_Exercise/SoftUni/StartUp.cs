@@ -21,13 +21,13 @@ namespace SoftUni
             //string employeesAndProjects = GetEmployeesInPeriod(context);
             //string addressesByTown = GetAddressesByTown(context);
             //string employee147 = GetEmployee147(context);
-            //string departmentsWithMoreThan5Employees = GetDepartmentsWithMoreThan5Employees(context);
+            string departmentsWithMoreThan5Employees = GetDepartmentsWithMoreThan5Employees(context);
             //string latestProjects = GetLatestProjects(context);
             //string employeesWithIncreasedSalaries = IncreaseSalaries(context);
             //string employeesStartsWithSa = GetEmployeesByFirstNameStartingWithSa(context);
             //string projects = DeleteProjectById(context);
             //string deletedAddressesCount = RemoveTown(context);
-            Console.WriteLine();
+            Console.WriteLine(departmentsWithMoreThan5Employees);
 
         }
 

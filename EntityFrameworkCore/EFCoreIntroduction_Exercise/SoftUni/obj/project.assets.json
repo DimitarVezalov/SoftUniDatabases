@@ -5001,11 +5001,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOFTUNI-COURSES\\DatabasesModule\\SoftUniDatabases\\EntityFrameworkCore\\EFCoreIntroduction\\EFCoreIntroduction_Exercise\\SoftUni\\SoftUni.csproj",
+      "projectUniqueName": "D:\\SOFTUNI-COURSES\\DatabasesModule\\SoftUniDatabases\\EntityFrameworkCore\\EFCoreIntroduction_Exercise\\SoftUni\\SoftUni.csproj",
       "projectName": "SoftUni",
-      "projectPath": "D:\\SOFTUNI-COURSES\\DatabasesModule\\SoftUniDatabases\\EntityFrameworkCore\\EFCoreIntroduction\\EFCoreIntroduction_Exercise\\SoftUni\\SoftUni.csproj",
+      "projectPath": "D:\\SOFTUNI-COURSES\\DatabasesModule\\SoftUniDatabases\\EntityFrameworkCore\\EFCoreIntroduction_Exercise\\SoftUni\\SoftUni.csproj",
       "packagesPath": "C:\\Users\\vezy1326\\.nuget\\packages\\",
-      "outputPath": "D:\\SOFTUNI-COURSES\\DatabasesModule\\SoftUniDatabases\\EntityFrameworkCore\\EFCoreIntroduction\\EFCoreIntroduction_Exercise\\SoftUni\\obj\\",
+      "outputPath": "D:\\SOFTUNI-COURSES\\DatabasesModule\\SoftUniDatabases\\EntityFrameworkCore\\EFCoreIntroduction_Exercise\\SoftUni\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vezy1326\\AppData\\Roaming\\NuGet\\NuGet.Config",

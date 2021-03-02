@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BWCkvhPfh8plWwo6RIyDdCQerYjT+LStIDIG/IfZn1IToEje2/jOnYvDwdq8mdzvX4Fj8waDbQ7/pXaEx6/G1Q==",
+  "dgSpecHash": "iMhJRdTyOa+hUweaWYsk5BweFzzdb8e95zfcmbPf73GfJB1EdVYV5YNjnDX5SugWn6QbvRDIzugODjE+Oi/6Og==",
   "success": true,
-  "projectFilePath": "D:\\SOFTUNI-COURSES\\DatabasesModule\\SoftUniDatabases\\EntityFrameworkCore\\EFCoreIntroduction\\EFCoreIntroduction_Exercise\\SoftUni\\SoftUni.csproj",
+  "projectFilePath": "D:\\SOFTUNI-COURSES\\DatabasesModule\\SoftUniDatabases\\EntityFrameworkCore\\EFCoreIntroduction_Exercise\\SoftUni\\SoftUni.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vezy1326\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\vezy1326\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
