@@ -1,0 +1,9 @@
+D:\SOFTUNI-COURSES\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\AutoMappingObjects_Exercise\07. Auto-Mapping-Objects-Project\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.deps.json
+D:\SOFTUNI-COURSES\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\AutoMappingObjects_Exercise\07. Auto-Mapping-Objects-Project\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+D:\SOFTUNI-COURSES\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\AutoMappingObjects_Exercise\07. Auto-Mapping-Objects-Project\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+D:\SOFTUNI-COURSES\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\AutoMappingObjects_Exercise\07. Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.csprojAssemblyReference.cache
+D:\SOFTUNI-COURSES\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\AutoMappingObjects_Exercise\07. Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.AssemblyInfoInputs.cache
+D:\SOFTUNI-COURSES\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\AutoMappingObjects_Exercise\07. Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.AssemblyInfo.cs
+D:\SOFTUNI-COURSES\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\AutoMappingObjects_Exercise\07. Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.csproj.CoreCompileInputs.cache
+D:\SOFTUNI-COURSES\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\AutoMappingObjects_Exercise\07. Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.dll
+D:\SOFTUNI-COURSES\DatabasesModule\SoftUniDatabases\EntityFrameworkCore\AutoMappingObjects_Exercise\07. Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.pdb

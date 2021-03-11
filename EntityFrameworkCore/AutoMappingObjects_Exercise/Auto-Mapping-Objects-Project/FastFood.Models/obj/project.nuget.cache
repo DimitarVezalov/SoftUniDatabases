@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "neA1kNGrjoVEI1b1ePsyiHw4COC/5+E35gASIsog4DniVjaNdpK0XP100QYLBvrbrevuriqLN+Wiy0gD0K5Tyw==",
+  "success": true,
+  "projectFilePath": "D:\\SOFTUNI-COURSES\\DatabasesModule\\SoftUniDatabases\\EntityFrameworkCore\\AutoMappingObjects_Exercise\\07. Auto-Mapping-Objects-Project\\FastFood.Models\\FastFood.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vezy1326\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\vezy1326\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\vezy1326\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\vezy1326\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\vezy1326\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\vezy1326\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\vezy1326\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

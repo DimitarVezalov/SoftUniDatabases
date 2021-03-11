@@ -30,14 +30,10 @@
             //int booksCount = CountBooks(db, input);
             //string countCoppiesByAuthor = CountCopiesByAuthor(db);
             //string getTotalProfitByCategory = GetTotalProfitByCategory(db);
-            //string getMostRecentBooks = GetMostRecentBooks(db);
+            string getMostRecentBooks = GetMostRecentBooks(db);
             //IncreasePrices(db);
-            int deletedBooksCount = RemoveBooks(db);
-
-
-            Console.WriteLine(deletedBooksCount);
-
-
+            //int deletedBooksCount = RemoveBooks(db);
+            Console.WriteLine(getMostRecentBooks);
         }
 
         //P02.Age Restriction
@@ -323,32 +319,33 @@
         //P14.Most Recent Books
         public static string GetMostRecentBooks(BookShopContext context)
         {
-            var categories = context.Categories
-                .Select(c => new
+            var books = context.Categories
+                .Select(x => new
                 {
-                    c.Name,
-                    Books = c.CategoryBooks
-                    .OrderByDescending(cb => cb.Book.ReleaseDate)
+                    x.Name,
+                    Books = x.CategoryBooks
+                    .OrderByDescending(x => x.Book.ReleaseDate)
                     .Take(3)
-                    .Select(cb => new
+                    .Select(x => new
                     {
-                        cb.Book.Title,
-                        cb.Book.ReleaseDate.Value.Year
+                        x.Book.Title,
+                        Date = x.Book.ReleaseDate.Value.Year
                     })
-                    .ToList()
+                        
+                        .ToList()
                 })
-                .OrderBy(c => c.Name)
+                .OrderBy(x => x.Name)
                 .ToList();
 
-            StringBuilder sb = new StringBuilder();
+            var sb = new StringBuilder();
 
-            foreach (var category in categories)
+            foreach (var category in books)
             {
                 sb.AppendLine($"--{category.Name}");
 
                 foreach (var book in category.Books)
                 {
-                    sb.AppendLine($"{book.Title} ({book.Year})");
+                    sb.AppendLine($"{book.Title} ({book.Date})");
                 }
             }
 
